@@ -3,4 +3,4 @@
 **1. GPO Hardening**
 Trying to access Control Panel results in a restriction error:
 
-![GPO Error Screenshot](evidence/GPO_error.png)
+![GPO Error Screenshot](GPO_error.png)
