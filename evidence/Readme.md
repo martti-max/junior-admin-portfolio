@@ -1,4 +1,4 @@
-### 📸 Proof of Concept
+### Proof of Concept
 
 **1. GPO Hardening**
 Trying to access Control Panel results in a restriction error:
